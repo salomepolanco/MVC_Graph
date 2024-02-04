@@ -12,10 +12,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DAO\" />
-    <Folder Include="DBContext\" />
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-
 </Project>
