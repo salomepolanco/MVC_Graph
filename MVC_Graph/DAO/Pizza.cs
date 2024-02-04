@@ -4,7 +4,7 @@
     public abstract class Pizza
     {
         protected string _descripcion;
-        //Objeto público quejjjjjmmm tomará una descripción dependiendo del tipo de pizza que se va a hacer.
+        //Objeto público quejjjjjmmm tomajjrá una descripción dependiendo del tipo de pizza que se va a hacer.
         public object Descripcion
         {
             get
